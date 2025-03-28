@@ -1,10 +1,10 @@
 [package]
-name = "app"
+name = "radiator"
 version = "0.1.0"
 description = "A Tauri App"
-authors = ["you"]
+authors = ["Frank Li"]
 license = ""
-repository = ""
+repository = "https://github.com/frangkli/radiator"
 edition = "2021"
 rust-version = "1.77.2"
 
