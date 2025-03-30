@@ -21,8 +21,7 @@
 		"rules": {
 			"recommended": true,
 			"correctness": {
-				"useExhaustiveDependencies": "error",
-				"useHookAtTopLevel": "error"
+				"all": true
 			},
 			"nursery": {
 				"useGoogleFontDisplay": "error",
