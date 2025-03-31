@@ -35,6 +35,10 @@
 						"allowExportNames": ["metadata"]
 					}
 				}
+			},
+			"suspicious": {
+				"noArrayIndexKey": "off",
+				"noShadowRestrictedNames": "off"
 			}
 		}
 	},
